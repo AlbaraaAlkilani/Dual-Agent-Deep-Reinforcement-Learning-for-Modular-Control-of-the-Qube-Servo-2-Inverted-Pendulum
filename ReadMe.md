@@ -1,5 +1,5 @@
 # Reinforcement Learning: training and deploying a policy to control inverted pendulum with QUBE - Servo2
-[![DOI](https://zenodo.org/badge/DOI/10.xxxx/zenodo.xxxxx.svg)]([https://doi.org/10.5281/zenodo.16840616])
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16840616.svg)](https://doi.org/10.5281/zenodo.16840616)
 
 【日本語の資料は[こちら](/common/quanserservo2_control_index_ja_md.md)】
 
